@@ -1,0 +1,7 @@
+pip install pyautogui
+
+https://pyautogui.readthedocs.io/
+https://pyautogui.readthedocs.io/en/latest/install.html
+https://pyautogui.readthedocs.io/en/latest/cheatsheet.html
+https://pyautogui.readthedocs.io/en/latest/keyboard.html#keyboard-keys
+https://automatetheboringstuff.com/chapter18/
